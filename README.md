@@ -1,7 +1,7 @@
 # Hello, I'm Daysie!
 <a href="https://www.linkedin.com/in/daysie-san-miguel-1aa216284/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent career changer with a profound interest in Cybersecurity and a dedication to solving complex problems.
+As a seasoned professional with a diverse background in information security, regulatory compliance, and healthcare administration, I specialize in safeguarding sensitive data while optimizing operational efficiency. My experience spans across areas such as HIPAA and GDPR compliance, risk management, and vulnerability assessments. I have a proven track record of driving improvements in data protection and workflow automation within medical administration settings.
 
 ## Objective
 
